@@ -1,1 +1,3 @@
 A file I do not want to track
+
+Now going to track this file! To test git merge.
